@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.class-container{
+  background-color: orange;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 6px;
+}
+
+.class-container-special{
+  font-size: 24px;
+  color: white;
+  background-color: blue;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#id-container-first{
+  color:blue;
+  font-size: 36px;
+  padding: 10px;
+  margin:10px
+}
+
+#id-container-second{
+  font-weight: 600;
+  font-size: 24px;
+  background-color: lightgreen;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+}
